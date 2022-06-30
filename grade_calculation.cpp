@@ -73,7 +73,10 @@ void RoundUpGrades( Student & student ) {
 
   string::size_type location = student.id.find( "PL110_" );
   student.id.erase( location, 6 );
+  // erase PL110_ from the id
+
   student.grade = roundf( student.grade * 10 ) / 10;
+  // round grades
 } // RoundUpGrades()
 
 vector<Student> Read_And_Calculate_Grades( ifstream & file ) {
