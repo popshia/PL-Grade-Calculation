@@ -132,6 +132,8 @@ void Output_Student_Grades( vector<Student> allStudents ) {
            << "\t\tq4: " << allStudents[i].q4Correct
            << "\t\tgrades: " << allStudents[i].grade << endl;
   } // for: output student grades
+
+  output.close();
 } // Output_Student_Grades()
 
 int main() {
