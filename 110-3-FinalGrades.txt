@@ -1,0 +1,16 @@
+id: 10720107				q1: 11		q2: 12		q3: 6		q4: 0		grades: 60.9
+id: 10720111				q1: 11		q2: 10		q3: 1		q4: 0		grades: 42.6
+id: 10724370				q1: 0		q2: 5		q3: 12		q4: 0		grades: 44.5
+id: 10727120				q1: 0		q2: 0		q3: 0		q4: 0		grades: 0
+id: 10727134				q1: 2		q2: 0		q3: 0		q4: 0		grades: 3.3
+id: 10727144				q1: 2		q2: 0		q3: 0		q4: 0		grades: 3.3
+id: 10727176				q1: 0		q2: 0		q3: 0		q4: 0		grades: 0
+id: 10727231				q1: 0		q2: 0		q3: 0		q4: 0		grades: 0
+id: 10727246				q1: 12		q2: 11		q3: 1		q4: 0		grades: 46.4
+id: 10727255				q1: 12		q2: 14		q3: 5		q4: 0		grades: 64.1
+id: 10727257				q1: 11		q2: 10		q3: 8		q4: 0		grades: 62.2
+id: 10820119				q1: 12		q2: 2		q3: 0		q4: 0		grades: 24.3
+id: 10820130				q1: 11		q2: 0		q3: 0		q4: 0		grades: 18.3
+id: 10827141				q1: 0		q2: 0		q3: 0		q4: 0		grades: 0
+id: 10827143				q1: 12		q2: 0		q3: 0		q4: 0		grades: 20
+id: 10827149				q1: 0		q2: 10		q3: 0		q4: 0		grades: 21.4
